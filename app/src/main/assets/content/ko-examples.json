@@ -1,0 +1,17 @@
+[
+ {"id":"ko-01-a","vocabularyId":"ko-01","sentence":"안녕하세요, 저는 학생입니다.","translation":"你好，我是学生。","keywords":"안녕하세요=你好;학생=学生","grammarNotes":"저는：我的主题形式；입니다：正式礼貌陈述"},
+ {"id":"ko-02-a","vocabularyId":"ko-02","sentence":"도와주셔서 감사합니다.","translation":"谢谢你的帮助。","keywords":"도와주다=帮助;감사합니다=谢谢","grammarNotes":"-아/어서：表示原因"},
+ {"id":"ko-03-a","vocabularyId":"ko-03","sentence":"학교에 가요.","translation":"我去学校。","keywords":"학교=学校;가다=去","grammarNotes":"에：目的地助词；가요：가다 的礼貌形式"},
+ {"id":"ko-03-b","vocabularyId":"ko-03","sentence":"학교에서 공부해요.","translation":"我在学校学习。","keywords":"학교=学校;공부하다=学习","grammarNotes":"에서：动作发生的地点"},
+ {"id":"ko-04-a","vocabularyId":"ko-04","sentence":"오늘 친구를 만나요.","translation":"我今天和朋友见面。","keywords":"오늘=今天;친구=朋友;만나다=见面","grammarNotes":"를：宾语助词；만나요：礼貌形式"},
+ {"id":"ko-04-b","vocabularyId":"ko-04","sentence":"친구와 함께 공부해요.","translation":"我和朋友一起学习。","keywords":"친구=朋友;함께=一起;공부하다=学习","grammarNotes":"와：和"},
+ {"id":"ko-05-a","vocabularyId":"ko-05","sentence":"밥을 먹어요.","translation":"我吃饭。","keywords":"밥=饭;먹다=吃","grammarNotes":"을：宾语助词；먹어요：먹다 的礼貌形式"},
+ {"id":"ko-05-b","vocabularyId":"ko-05","sentence":"친구와 점심을 먹어요.","translation":"我和朋友吃午饭。","keywords":"친구=朋友;점심=午饭;먹다=吃","grammarNotes":"와：和；을：宾语助词"},
+ {"id":"ko-06-a","vocabularyId":"ko-06","sentence":"집에 가요.","translation":"我回家。","keywords":"집=家;가다=去","grammarNotes":"에：目的地；主语常可省略"},
+ {"id":"ko-06-b","vocabularyId":"ko-06","sentence":"내일 학교에 가요.","translation":"我明天去学校。","keywords":"내일=明天;학교=学校;가다=去","grammarNotes":"韩语常采用主语—宾语—谓语顺序"},
+ {"id":"ko-07-a","vocabularyId":"ko-07","sentence":"영화를 봐요.","translation":"我看电影。","keywords":"영화=电影;보다=看","grammarNotes":"를：宾语助词；봐요：보다 的缩约礼貌形式"},
+ {"id":"ko-07-b","vocabularyId":"ko-07","sentence":"친구와 영화를 봐요.","translation":"我和朋友看电影。","keywords":"친구=朋友;영화=电影;보다=看","grammarNotes":"와：和；를：宾语助词"},
+ {"id":"ko-08-a","vocabularyId":"ko-08","sentence":"친구와 약속이 있어요.","translation":"我和朋友有约。","keywords":"친구=朋友;약속=约定;있다=有","grammarNotes":"이：主语助词；있어요：存在或拥有"},
+ {"id":"ko-08-b","vocabularyId":"ko-08","sentence":"약속을 지켜 주세요.","translation":"请遵守约定。","keywords":"약속=约定;지키다=遵守","grammarNotes":"-아/어 주세요：请求别人做某事"},
+ {"id":"ko-08-c","vocabularyId":"ko-08","sentence":"내일 약속이 있어요.","translation":"我明天有约。","keywords":"내일=明天;약속=约定;있다=有","grammarNotes":"이：主语助词；있어요：有"}
+]

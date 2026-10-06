@@ -1,0 +1,16 @@
+.tools/
+.gradle/
+.kotlin/
+**/build/
+local.properties
+.env
+*.jks
+*.keystore
+supabase.local.properties
+teacher_backend/*.sqlite*
+teacher_backend/__pycache__/
+# 构建产物与发布包（APK 请通过 GitHub Releases 发布）
+outputs/*.apk
+# IDE 本地配置
+.idea/
+*.iml

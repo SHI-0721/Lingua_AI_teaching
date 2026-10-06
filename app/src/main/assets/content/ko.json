@@ -1,0 +1,10 @@
+[
+ {"id":"ko-01","lessonId":"ko-basics","text":"안녕하세요","meaning":"你好","pronunciation":"an-nyeong-ha-se-yo","partOfSpeech":"问候表达","collocations":"안녕하세요, 선생님","similarWords":"안녕（非正式）"},
+ {"id":"ko-02","lessonId":"ko-basics","text":"감사합니다","meaning":"谢谢","pronunciation":"gam-sa-ham-ni-da","partOfSpeech":"感谢表达","collocations":"정말 감사합니다","similarWords":"고맙습니다"},
+ {"id":"ko-03","lessonId":"ko-basics","text":"학교","meaning":"学校","pronunciation":"hak-kkyo","partOfSpeech":"名词","collocations":"학교 생활","similarWords":"대학교（大学）"},
+ {"id":"ko-04","lessonId":"ko-basics","text":"친구","meaning":"朋友","pronunciation":"chin-gu","partOfSpeech":"名词","collocations":"좋은 친구","similarWords":"동료（同事）"},
+ {"id":"ko-05","lessonId":"ko-basics","text":"먹다","meaning":"吃","pronunciation":"meok-tta","partOfSpeech":"动词","collocations":"밥을 먹다","similarWords":"마시다（喝）"},
+ {"id":"ko-06","lessonId":"ko-basics","text":"가다","meaning":"去","pronunciation":"ga-da","partOfSpeech":"动词","collocations":"학교에 가다","antonyms":"오다（来）"},
+ {"id":"ko-07","lessonId":"ko-basics","text":"보다","meaning":"看","pronunciation":"bo-da","partOfSpeech":"动词","collocations":"영화를 보다","similarWords":"바라보다（望着）"},
+ {"id":"ko-08","lessonId":"ko-basics","text":"약속","meaning":"约定","pronunciation":"yak-ssok","partOfSpeech":"名词","collocations":"약속 시간","similarWords":"예약（预约）"}
+]
